@@ -1,7 +1,35 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Johnnysvq&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20%26%20ML%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
+<!-- Animated SVG header -->
+<svg width="100%" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+    <style>
+      .title { animation: fadeIn 1.2s ease forwards; opacity: 0; }
+      .subtitle { animation: fadeIn 1.2s ease 0.5s forwards; opacity: 0; }
+      .wave { animation: waveMove 6s ease-in-out infinite alternate; }
+      @keyframes fadeIn { to { opacity: 1; } }
+      @keyframes waveMove { 0% { d: path("M0,160 C200,120 400,180 600,140 C750,110 850,150 900,130 L900,200 L0,200 Z"); } 100% { d: path("M0,140 C150,170 350,110 550,150 C700,180 820,120 900,145 L900,200 L0,200 Z"); } }
+    </style>
+  </defs>
+  <rect width="900" height="200" fill="url(#bg)"/>
+  <!-- Decorative dots -->
+  <circle cx="60" cy="40" r="2" fill="#7EB8F7" opacity="0.4"/>
+  <circle cx="120" cy="70" r="1.5" fill="#7EB8F7" opacity="0.3"/>
+  <circle cx="820" cy="35" r="2" fill="#7EB8F7" opacity="0.4"/>
+  <circle cx="860" cy="65" r="1.5" fill="#7EB8F7" opacity="0.3"/>
+  <circle cx="450" cy="25" r="1.5" fill="#a78bfa" opacity="0.3"/>
+  <!-- Wave bottom -->
+  <path class="wave" d="M0,160 C200,120 400,180 600,140 C750,110 850,150 900,130 L900,200 L0,200 Z" fill="#0d1117" opacity="0.8"/>
+  <!-- Title -->
+  <text class="title" x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-size="52" font-weight="bold" fill="#ffffff" letter-spacing="4">Johnnysvq</text>
+  <!-- Subtitle -->
+  <text class="subtitle" x="50%" y="68%" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-size="15" fill="#7EB8F7" letter-spacing="2">Full Stack Developer · Data &amp; ML Enthusiast</text>
+</svg>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -12,8 +40,27 @@
 
 <!-- Badges row -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnny-varela)
+[![GitHub followers](https://img.shields.io/github/followers/Johnnysvq?label=Follow&style=for-the-badge&color=0f0c29&labelColor=302b63)](https://github.com/Johnnysvq)
+![Profile views](https://komarev.com/ghpvc/?username=Johnnysvq&style=for-the-badge&color=302b63&labelColor=0f0c29)
 
 </div>
+
+---
+
+## 🧑‍💻 About Me
+
+```java
+public class Johnnysvq {
+
+    String role       = "Full Stack Developer & Data Enthusiast";
+    String level      = "Junior (0–2 years)";
+    String[] focus    = { "Scalable APIs", "Web Apps", "Data Engineering", "ML Pipelines" };
+    String learning   = "..."; // 🔧 Currently working on something cool — stay tuned!
+    boolean openToWork = true;
+}
+```
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -43,7 +90,21 @@
 
 ---
 
+## 📈 GitHub Stats
 
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Johnnysvq&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7EB8F7&icon_color=7EB8F7&text_color=c9d1d9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnnysvq&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7EB8F7&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Johnnysvq&theme=dark&hide_border=true&background=0d1117&stroke=302b63&ring=7EB8F7&fire=7EB8F7&currStreakLabel=7EB8F7&sideLabels=c9d1d9&dates=c9d1d9)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
@@ -65,6 +126,18 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<svg width="100%" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgFooter" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#24243e"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#0f0c29"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="120" fill="#0d1117"/>
+  <path d="M0,60 C200,20 400,80 600,40 C750,10 850,50 900,30 L900,0 L0,0 Z" fill="url(#bgFooter)"/>
+  <circle cx="200" cy="30" r="1.5" fill="#7EB8F7" opacity="0.3"/>
+  <circle cx="680" cy="20" r="2" fill="#a78bfa" opacity="0.3"/>
+</svg>
 
 </div>
