@@ -78,7 +78,5 @@ public class Johnnysvq {
 
 <div align="center">
 
----
-<div align="center"><sub>Made with ❤️ by Johnnysvq</sub></div>
 
 </div>
