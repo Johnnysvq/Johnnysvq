@@ -1,35 +1,10 @@
 <div align="center">
 
-<!-- Animated SVG header -->
-<svg width="100%" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0f0c29"/>
-      <stop offset="50%" style="stop-color:#302b63"/>
-      <stop offset="100%" style="stop-color:#24243e"/>
-    </linearGradient>
-    <style>
-      .title { animation: fadeIn 1.2s ease forwards; opacity: 0; }
-      .subtitle { animation: fadeIn 1.2s ease 0.5s forwards; opacity: 0; }
-      .wave { animation: waveMove 6s ease-in-out infinite alternate; }
-      @keyframes fadeIn { to { opacity: 1; } }
-      @keyframes waveMove { 0% { d: path("M0,160 C200,120 400,180 600,140 C750,110 850,150 900,130 L900,200 L0,200 Z"); } 100% { d: path("M0,140 C150,170 350,110 550,150 C700,180 820,120 900,145 L900,200 L0,200 Z"); } }
-    </style>
-  </defs>
-  <rect width="900" height="200" fill="url(#bg)"/>
-  <!-- Decorative dots -->
-  <circle cx="60" cy="40" r="2" fill="#7EB8F7" opacity="0.4"/>
-  <circle cx="120" cy="70" r="1.5" fill="#7EB8F7" opacity="0.3"/>
-  <circle cx="820" cy="35" r="2" fill="#7EB8F7" opacity="0.4"/>
-  <circle cx="860" cy="65" r="1.5" fill="#7EB8F7" opacity="0.3"/>
-  <circle cx="450" cy="25" r="1.5" fill="#a78bfa" opacity="0.3"/>
-  <!-- Wave bottom -->
-  <path class="wave" d="M0,160 C200,120 400,180 600,140 C750,110 850,150 900,130 L900,200 L0,200 Z" fill="#0d1117" opacity="0.8"/>
-  <!-- Title -->
-  <text class="title" x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-size="52" font-weight="bold" fill="#ffffff" letter-spacing="4">Johnnysvq</text>
-  <!-- Subtitle -->
-  <text class="subtitle" x="50%" y="68%" dominant-baseline="middle" text-anchor="middle" font-family="monospace" font-size="15" fill="#7EB8F7" letter-spacing="2">Full Stack Developer · Data &amp; ML Enthusiast</text>
-</svg>
+# 👨‍💻 Johnnysvq
+
+### Full Stack Developer · Data & ML Enthusiast
+
+
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -90,11 +65,6 @@ public class Johnnysvq {
 
 ---
 
-## 🚀 Currently Working On
-
-> 🔧 **Coming soon...** — I'm building something interesting, check back later!
-
----
 
 ## 📫 Let's Connect
 
@@ -108,18 +78,7 @@ public class Johnnysvq {
 
 <div align="center">
 
-<svg width="100%" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgFooter" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#24243e"/>
-      <stop offset="50%" style="stop-color:#302b63"/>
-      <stop offset="100%" style="stop-color:#0f0c29"/>
-    </linearGradient>
-  </defs>
-  <rect width="900" height="120" fill="#0d1117"/>
-  <path d="M0,60 C200,20 400,80 600,40 C750,10 850,50 900,30 L900,0 L0,0 Z" fill="url(#bgFooter)"/>
-  <circle cx="200" cy="30" r="1.5" fill="#7EB8F7" opacity="0.3"/>
-  <circle cx="680" cy="20" r="2" fill="#a78bfa" opacity="0.3"/>
-</svg>
+---
+<div align="center"><sub>Made with ❤️ by Johnnysvq</sub></div>
 
 </div>
