@@ -16,7 +16,6 @@
 <!-- Badges row -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnny-varela)
 [![GitHub followers](https://img.shields.io/github/followers/Johnnysvq?label=Follow&style=for-the-badge&color=0f0c29&labelColor=302b63)](https://github.com/Johnnysvq)
-![Profile views](https://komarev.com/ghpvc/?username=Johnnysvq&style=for-the-badge&color=302b63&labelColor=0f0c29)
 
 </div>
 
