@@ -30,8 +30,6 @@ public class Johnnysvq {
     String role       = "Full Stack Developer & Data Enthusiast";
     String level      = "Junior (0–2 years)";
     String[] focus    = { "Scalable APIs", "Web Apps", "Data Engineering", "ML Pipelines" };
-    String learning   = "..."; // 🔧 Currently working on something cool — stay tuned!
-    boolean openToWork = true;
 }
 ```
 
