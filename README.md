@@ -90,24 +90,6 @@ public class Johnnysvq {
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Johnnysvq&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7EB8F7&icon_color=7EB8F7&text_color=c9d1d9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johnnysvq&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=7EB8F7&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Johnnysvq&theme=dark&hide_border=true&background=0d1117&stroke=302b63&ring=7EB8F7&fire=7EB8F7&currStreakLabel=7EB8F7&sideLabels=c9d1d9&dates=c9d1d9)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🚀 Currently Working On
 
 > 🔧 **Coming soon...** — I'm building something interesting, check back later!
