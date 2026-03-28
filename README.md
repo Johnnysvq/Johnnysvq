@@ -17,12 +17,6 @@
 
 </div>
 
----
-
-
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🔷 Backend
