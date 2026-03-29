@@ -53,7 +53,7 @@ public class Johnnysvq {
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### ☁️ Cloud & DevOps
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
 
 ---
 
