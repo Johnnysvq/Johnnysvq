@@ -37,7 +37,7 @@ public class Johnnysvq {
 ## 🛠️ Tech Stack
 
 ### 🔷 Backend
-[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,dotnet,php)](https://skillicons.dev)
 
 ### 🎨 Frontend
 [![My Skills](https://skillicons.dev/icons?i=react,js,bootstrap,html,css)](https://skillicons.dev)
