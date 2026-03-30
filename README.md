@@ -47,7 +47,7 @@ public class Johnnysvq {
 ![SQL Server](https://img.icons8.com/?size=48&id=laYYF3dV0Iew&format=png&color=000000)
 
 ### 📊 Data & ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
