@@ -44,7 +44,7 @@ public class Johnnysvq {
 
 ### 🗄️ Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
-![SQL Server](https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000)
+![SQL Server](https://img.icons8.com/?size=48&id=laYYF3dV0Iew&format=png&color=000000)
 
 ### 📊 Data & ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
