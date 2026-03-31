@@ -48,8 +48,6 @@ public class Johnnysvq {
 
 ### 📊 Data & ML
 [![My Skills](https://skillicons.dev/icons?i=python,r)](https://skillicons.dev)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 [![My Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
